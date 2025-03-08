@@ -1,0 +1,9 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\database_creation",
+    "\\transactions_processing"
+  ],
+  "SelectedNode": "\\database_creation\\final_database_creation_script.sql",
+  "PreviewInSolutionExplorer": false
+}
